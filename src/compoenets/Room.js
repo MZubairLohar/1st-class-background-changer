@@ -5,8 +5,7 @@ const Room = () => {
         <div>
             My Room
             <h2>Update</h2>
-            <h3>2</h3>
-            <h4>update4</h4>
+            
         </div>
     )
 }
