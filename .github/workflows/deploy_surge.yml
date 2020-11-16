@@ -37,4 +37,4 @@ jobs:
         run: npm install -g surge
       # running surge Build 
       - name : run surge
-        run : surge ./ http://bg-app-bcamp.surge.sh/ --token ${{secrets.SURGE_TOKEN}}
+        run : surge ./build http://bg-app-bcamp.surge.sh/ --token ${{secrets.SURGE_TOKEN}}
