@@ -4,7 +4,7 @@ const Room = () => {
     return (
         <div>
             My Room
-            <h2>Update</h2>
+            <h2>Upda252te</h2>
             
         </div>
     )
